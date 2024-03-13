@@ -1,4 +1,4 @@
 # app1
 aplicación web de administración educativa
 
-<img src="descargar.png>
+<img src="descargar.png">
